@@ -1,11 +1,16 @@
 _repo: Huilunsoittaja-b-Runoja_73113
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Vuorela, Einari
     gutenberg_agent_id: '56948'
     url: http://www.gutenberg.org/2009/agents/56948
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73113#Huilunsoittaja-b-Runoja
 gutenberg_issued: '2024-03-06'
 gutenberg_type: Text
 identifiers:
